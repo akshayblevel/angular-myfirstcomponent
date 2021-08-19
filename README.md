@@ -1,8 +1,11 @@
 # angular-myfirstcomponent
 
 Component contains template, class and metadata.
+
 Component must be declared in module. In our example 'MyFirstComponentComponent' is added under declarations in app.module.ts. In order to add in module we need to import from it's physical location.
+
 Class is decorated with @Component decorator. Decorator is function that adds metadata to a class, its members or its method arguments. Decorator is prefixed with @.
+
 Value of selector is a directive name used in html. In our example 'app-my-first-component' is a directive name used in app.component.html
 
 Command to create component : ng g c my-first-component
