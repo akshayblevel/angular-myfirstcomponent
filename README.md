@@ -8,7 +8,7 @@ Class is decorated with @Component decorator. Decorator is function that adds me
 
 Value of selector is a directive name used in html. In our example 'app-my-first-component' is a directive name used in app.component.html
 
-Command to create component : ng g c my-first-component
+Command to create component : ng g c myFirstComponent
 
 my-first-component.component.ts
 
